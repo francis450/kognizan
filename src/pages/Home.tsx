@@ -97,8 +97,8 @@ export default function Home() {
           >
             <div className="aspect-square rounded-3xl overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.5)] relative group border border-white/10">
               <img
-                src="https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=2070"
-                alt="Technology Workspace"
+                src="/hero-african-tech-team.png"
+                alt="African technology team collaborating in a modern office"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 opacity-80"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-neutral-dark/80 to-transparent flex items-end p-8">
